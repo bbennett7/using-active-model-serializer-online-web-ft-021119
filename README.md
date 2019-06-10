@@ -6,7 +6,7 @@
 2.  Use ActiveModel::Serializer to render JSON with associated objects
 3.  Explain how ActiveModel::Serializer fits into Rails 5.
 
-## Lesson
+## Lesson 
 
 Imagine we had a blog application. When we want to view an instance of a `Post`,
 we also want to view the `Author` associated with that `Post`. We could manually
